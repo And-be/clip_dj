@@ -1,0 +1,9 @@
+torch==1.9.1
+librosa==0.8.0
+numpy==1.17.4
+clip.egg==info
+torchvision==0.10.1
+clip==0.2.0
+cog==0.0.3
+Pillow==9.0.0
+wav2clip==0.1.0
